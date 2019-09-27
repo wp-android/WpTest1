@@ -15,7 +15,8 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true">
-        <activity android:name=".lcb"></activity>
+        <activity android:name=".wp"></activity>
+        <activity android:name=".lcb" />
         <activity android:name=".Activity8" />
         <activity android:name=".Action">
             <intent-filter>
